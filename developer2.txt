@@ -1,2 +1,1 @@
-Create developer2.txt
-hello welcome to github
+File has been changed by another developer
